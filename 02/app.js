@@ -5,12 +5,12 @@ for (let j = 0; j < randomArray.length; j++) {
 	console.log(randomArray[j]);
 }
 
-randomArray.forEach(function(element){
-    return console.log(element); 
+randomArray.forEach(function (element) {
+	return console.log(element);
 });
 
 console.log('____last element:');
-console.log(randomArray.pop()); 
+console.log(randomArray.pop());
 
 // nie modyfikuj kodu poniżej!
 
